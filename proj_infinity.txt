@@ -1,0 +1,31 @@
+cms headless
+
+na instalação ja vem com algumas coisas pre definidas
+
+
+
+
+
+rotas em quasar
+
+o comando utilizado é: 
+
+
+bloco mounted() - chamado depois que a página está carregada visualmente
+
+
+
+transpiler - converter uma linguagem em outra linguagem
+
+router link - habilita 
+
+--------------------------------------------------------------------- 
+nome 
+cpf
+rg
+telefone
+
+um campo upload de arquivo (comprovante de endereço e comprovantes dos documentos pessoais)
+
+dois telefones para contato (tipos do contato em dropdown)
+
